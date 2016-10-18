@@ -16,5 +16,3 @@ if len(sys.argv) < 2:
     exit(1)
 
 print read_fasta(sys.argv[1])
-
-# sdklksjdfeoi
